@@ -1,0 +1,10 @@
+Sean Song ssong28 8.8.19 pa3 README README
+FindComponents.c  Graph.h        GraphTest.c  List.h    README
+Graph.c           GraphClient.c  List.c       Makefile
+
+visit returns local time to iterate discover and finish times
+
+dfs also returns new list of decreasing finish times instead of output to S
+
+SCC logic in graph itself, under SCC and sccPrint functions
+recursively checks connected components and prints to file internally
